@@ -1,5 +1,5 @@
-CREATE DATABASE hw1_db_sql;
-USE hw1_db_sql;
+CREATE DATABASE hw2_db_sql;
+USE hw2_db_sql;
 
 # Задача 1. Используя операторы языка SQL, 
 # создайте таблицу “sales”. Заполните ее данными.
